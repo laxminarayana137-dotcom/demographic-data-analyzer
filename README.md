@@ -98,6 +98,6 @@ This project is part of the **FreeCodeCamp Data Analysis with Python Certificati
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Created as part of learning **data analysis using Python and Pandas**.
